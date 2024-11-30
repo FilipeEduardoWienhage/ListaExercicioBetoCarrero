@@ -1,0 +1,1 @@
+Contador de Palavras em Arquivo, desenvolva um programa que conte o número de palavras em um arquivo de texto. testando um pouco mais
